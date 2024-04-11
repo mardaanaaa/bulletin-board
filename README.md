@@ -34,8 +34,17 @@ to view it in the browser.
 
 ### Scrennshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![1](https://github.com/mardaanaaa/bulletin-board/assets/120197696/945c6652-e1a6-43fe-a29c-bc7ae9a1617a)
+![2](https://github.com/mardaanaaa/bulletin-board/assets/120197696/ecca41d8-88f0-45a4-815d-01c6255ad760)
+![3](https://github.com/mardaanaaa/bulletin-board/assets/120197696/26768430-03fe-46a2-b51f-4e9f8fa62863)
 
-### `npm run build` fails to minify
+### Tests
+## Unit test
+![4](https://github.com/mardaanaaa/bulletin-board/assets/120197696/d3e70c51-855b-4703-ab17-2a6ba177aa4d)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Chrome
+![1](https://github.com/mardaanaaa/bulletin-board/assets/120197696/77c6fd34-8e01-48bc-9368-5c8c034bfcc8)
+
+
+
+
